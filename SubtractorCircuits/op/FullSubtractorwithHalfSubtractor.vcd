@@ -1,0 +1,87 @@
+$date
+	Sat Mar 15 18:09:11 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module TestBench_HS_FS $end
+$var wire 1 ! diff $end
+$var wire 1 " b_out $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % b_in $end
+$scope module uud $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % b_in $end
+$var wire 1 " b_out $end
+$var wire 1 ! diff $end
+$var wire 1 & d1 $end
+$var wire 1 ' b2 $end
+$var wire 1 ( b1 $end
+$scope module U1 $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 ( borrow $end
+$var wire 1 & difference $end
+$upscope $end
+$scope module U2 $end
+$var wire 1 % a $end
+$var wire 1 & b $end
+$var wire 1 ' borrow $end
+$var wire 1 ! difference $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10
+1!
+1%
+#20
+1"
+1'
+1&
+1(
+0%
+1$
+#30
+0!
+0'
+1%
+#40
+1!
+1'
+0(
+0%
+0$
+1#
+#50
+0"
+0!
+0'
+1%
+#60
+0&
+0%
+1$
+#70
+1!
+1%
+#80

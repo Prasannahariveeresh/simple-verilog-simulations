@@ -1,0 +1,82 @@
+$date
+	Sat Mar 15 14:41:59 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Testbench_2x1 $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ sl_1 $end
+$scope module uud $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 $ sl_1 $end
+$var wire 1 ! y $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 % i [31:0] $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 & j [31:0] $end
+$scope begin $ivl_for_loop2 $end
+$var integer 32 ' k [31:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 '
+b0 &
+b0 %
+0$
+0#
+0"
+0!
+$end
+#10
+1#
+b1 '
+#20
+1!
+0#
+1"
+b1 &
+b0 '
+#30
+1#
+b1 '
+#40
+0!
+0#
+0"
+1$
+b1 %
+b0 &
+b0 '
+#50
+1!
+1#
+b1 '
+#60
+0!
+0#
+1"
+b1 &
+b0 '
+#70
+1!
+1#
+b1 '
+#80
+b10 %
+b10 &
+b10 '

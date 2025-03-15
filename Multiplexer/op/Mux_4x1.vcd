@@ -1,0 +1,327 @@
+$date
+	Sat Mar 15 18:22:12 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Testbench_4x1 $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ c $end
+$var reg 1 % d $end
+$var reg 1 & sl_0 $end
+$var reg 1 ' sl_1 $end
+$scope module uut $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 % d $end
+$var wire 1 & sl_0 $end
+$var wire 1 ' sl_1 $end
+$var wire 1 ( y_2 $end
+$var wire 1 ) y_1 $end
+$var wire 1 ! y $end
+$scope module mux_1 $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 & sl_1 $end
+$var wire 1 ) y $end
+$upscope $end
+$scope module mux_2 $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 & sl_1 $end
+$var wire 1 ( y $end
+$upscope $end
+$scope module mux_3 $end
+$var wire 1 ) a $end
+$var wire 1 ( b $end
+$var wire 1 ' sl_1 $end
+$var wire 1 ! y $end
+$upscope $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 * i [31:0] $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 + j [31:0] $end
+$scope begin $ivl_for_loop2 $end
+$var integer 32 , k [31:0] $end
+$scope begin $ivl_for_loop3 $end
+$var integer 32 - l [31:0] $end
+$scope begin $ivl_for_loop4 $end
+$var integer 32 . m [31:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 .
+b0 -
+b0 ,
+b0 +
+b0 *
+0)
+0(
+0'
+0&
+1%
+0$
+0#
+0"
+0!
+$end
+#10
+1(
+0%
+1$
+b1 .
+#20
+0(
+1%
+0$
+1#
+b1 -
+b0 .
+#30
+1(
+0%
+1$
+b1 .
+#40
+1!
+0(
+1)
+1%
+0$
+0#
+1"
+b1 ,
+b0 -
+b0 .
+#50
+1(
+0%
+1$
+b1 .
+#60
+0(
+1%
+0$
+1#
+b1 -
+b0 .
+#70
+1(
+0%
+1$
+b1 .
+#80
+0!
+0(
+0)
+1%
+0$
+0#
+0"
+1'
+b1 +
+b0 ,
+b0 -
+b0 .
+#90
+1!
+1(
+0%
+1$
+b1 .
+#100
+0!
+0(
+1%
+0$
+1#
+b1 -
+b0 .
+#110
+1!
+1(
+0%
+1$
+b1 .
+#120
+0!
+0(
+1)
+1%
+0$
+0#
+1"
+b1 ,
+b0 -
+b0 .
+#130
+1!
+1(
+0%
+1$
+b1 .
+#140
+0!
+0(
+1%
+0$
+1#
+b1 -
+b0 .
+#150
+1!
+1(
+0%
+1$
+b1 .
+#160
+0!
+0)
+1%
+0$
+0#
+0"
+0'
+1&
+b1 *
+b0 +
+b0 ,
+b0 -
+b0 .
+#170
+0(
+0%
+1$
+b1 .
+#180
+1!
+1(
+1)
+1%
+0$
+1#
+b1 -
+b0 .
+#190
+0(
+0%
+1$
+b1 .
+#200
+0!
+1(
+0)
+1%
+0$
+0#
+1"
+b1 ,
+b0 -
+b0 .
+#210
+0(
+0%
+1$
+b1 .
+#220
+1!
+1(
+1)
+1%
+0$
+1#
+b1 -
+b0 .
+#230
+0(
+0%
+1$
+b1 .
+#240
+1(
+0)
+1!
+1%
+0$
+0#
+0"
+1'
+b1 +
+b0 ,
+b0 -
+b0 .
+#250
+0!
+0(
+0%
+1$
+b1 .
+#260
+1!
+1(
+1)
+1%
+0$
+1#
+b1 -
+b0 .
+#270
+0!
+0(
+0%
+1$
+b1 .
+#280
+1!
+1(
+0)
+1%
+0$
+0#
+1"
+b1 ,
+b0 -
+b0 .
+#290
+0!
+0(
+0%
+1$
+b1 .
+#300
+1!
+1(
+1)
+1%
+0$
+1#
+b1 -
+b0 .
+#310
+0!
+0(
+0%
+1$
+b1 .
+#320
+b10 *
+b10 +
+b10 ,
+b10 -
+b10 .
