@@ -34,8 +34,8 @@ This project demonstrates the design, simulation, and verification of fundamenta
 ## Running the Simulations
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Prasannahariveeresh/simple-verilog-simulations
+   cd simple-verilog-simulations/
    ```
 2. Compile using **Icarus Verilog**:
    ```sh
