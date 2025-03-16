@@ -57,7 +57,3 @@ This project demonstrates the design, simulation, and verification of fundamenta
 
 ## Contributors
 - **@Prasannahariveeresh** - Design, Implementation, and Testing.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
